@@ -7,6 +7,8 @@
 
 # help(uma_linha)
 
-import varias_linhas
+# import varias_linhas
+# help(varias_linhas)
 
-help(varias_linhas)
+import documentando_funcoes
+help(documentando_funcoes)
